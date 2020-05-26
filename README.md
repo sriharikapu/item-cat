@@ -1,6 +1,5 @@
 # Item Catalog
 
-> Dustin D'Avignon
 
 ## About
 
